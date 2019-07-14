@@ -1,0 +1,14 @@
+/Users/richardwheatley/Developer/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/richardwheatley/Developer/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/richardwheatley/Developer/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/richardwheatley/Developer/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/richardwheatley/Developer/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/richardwheatley/Developer/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
